@@ -1,0 +1,21 @@
+appdirs==1.4.4
+asgiref==3.2.10
+certifi==2020.6.20
+chardet==3.0.4
+distlib==0.3.1
+dj-database-url==0.5.0
+Django==3.1.2
+django-bootstrap3 @ file:///C:/Users/Ayobami/Documents/django_env_/django_bootstrap3-14.1.0-py3-none-any.whl
+djangorestframework @ file:///C:/Users/Ayobami/Documents/django_env_/djangorestframework-3.12.1-py3-none-any.whl
+filelock==3.0.12
+idna==2.10
+pycryptodomex==3.9.9
+PyJWT==1.7.1
+pytz==2020.1
+requests==2.24.0
+six==1.15.0
+sqlparse==0.3.1
+stream-django @ file:///C:/Users/Ayobami/Documents/django_env_/stream-django-1.6.2.tar.gz
+stream-python==4.0.0
+urllib3==1.25.11
+virtualenv==20.0.31
