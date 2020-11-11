@@ -1,2 +1,2 @@
 # Learning_Log
-A Learning log web app that can be used for tracking your learning progress on any topic
+A web app built with Django that can be used for tracking your progress on any topic you are learning.
